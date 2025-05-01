@@ -1,4 +1,4 @@
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f7cd08e1-d593-4f83-94cf-ff7ccc8a36f1)
 # JS E-Commerce
 
 Esse é um projeto de **E-Commerce** desenvolvido para praticar conceitos avançados de **JavaScript** com foco em **Expressões Regulares**.
