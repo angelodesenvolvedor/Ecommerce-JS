@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/02136a2b-89c4-424d-ba7d-357d524c6e49)
+![image](https://github.com/user-attachments/assets/f7cd08e1-d593-4f83-94cf-ff7ccc8a36f1)
 
 # JS E-Commerce
 
