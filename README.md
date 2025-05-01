@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/02136a2b-89c4-424d-ba7d-357d524c6e49)
+
 # JS E-Commerce
 
 Esse é um projeto de **E-Commerce** desenvolvido para praticar conceitos avançados de **JavaScript** com foco em **Expressões Regulares**.
