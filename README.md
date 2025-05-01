@@ -39,20 +39,12 @@ Etapas para instalar e rodar o projeto:
 
 Agora, o formulário de cadastro estará pronto para ser utilizado!
 
-## 🛠️ Executando os testes (caso tenha testes)
-
-Este projeto não inclui testes automatizados específicos, mas você pode testar o funcionamento do formulário manualmente preenchendo os campos e verificando as validações e as máscaras de entrada.
 
 ## 📦 Tecnologias usadas:
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Front-end:**
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 👷 Autores
 
