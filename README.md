@@ -11,10 +11,6 @@ O projeto tem como funcionalidades:
 - Máscaras de entrada para CPF, celular, número de cartão de crédito e data de validade.
 - Feedback visual com mensagens de erro e sucesso.
 
-### ⚙️ Pré-requisitos
-
-Para rodar esse projeto, você precisará de um navegador moderno para visualizar o projeto em seu ambiente local. O projeto é 100% front-end, portanto, basta abrir o arquivo HTML diretamente no navegador.
-
 ## 🔨 Guia de instalação
 
 Etapas para instalar e rodar o projeto:
@@ -22,23 +18,14 @@ Etapas para instalar e rodar o projeto:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/ecommerce-js.git
+    git clone https://github.com/angelodesenvolvedor/Ecommerce-JS.git
     ```
 
 2. Navegue até a pasta do projeto:
 
     ```bash
-    cd ecommerce-js
+    cd Ecommerce-JS
     ```
-
-3. Abra o arquivo `index.html` no navegador de sua preferência.
-
-    ```bash
-    open index.html
-    ```
-
-Agora, o formulário de cadastro estará pronto para ser utilizado!
-
 
 ## 📦 Tecnologias usadas:
 
@@ -46,7 +33,7 @@ Agora, o formulário de cadastro estará pronto para ser utilizado!
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 👷 Autores
+## 👷 Autor
 
 * **Seu Nome** - *Desenvolvedor* - [seu-usuario](https://github.com/seu-usuario)
 
