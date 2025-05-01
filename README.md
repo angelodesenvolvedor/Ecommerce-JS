@@ -1,3 +1,4 @@
+![alt text](image.png)
 # JS E-Commerce
 
 Esse é um projeto de **E-Commerce** desenvolvido para praticar conceitos avançados de **JavaScript** com foco em **Expressões Regulares**.
