@@ -39,4 +39,4 @@ Etapas para instalar e rodar o projeto:
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT - veja os detalhes em [LICENSE.md](https://github.com/seu-usuario/ecommerce-js/blob/main/LICENSE).
+* Esse projeto está sob a licença MIT - veja os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/Ecommerce-JS/edit/main/LICENSE).
